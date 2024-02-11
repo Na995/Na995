@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Na995
+- 👀 I’m interested in becoming a data scientist
+- 🌱 I’m currently learning R for analysis
+- 💞️ I’m looking to collaborate on tools and software that can help me in my journey
+- 📫 How to reach me nachou31j@gmail.
